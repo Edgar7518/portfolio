@@ -4,7 +4,7 @@ function changeDarkMode() {
   if (darkMode) {
     darkMode = false;
     document.documentElement.style.setProperty("--text-color", "black");
-    document.documentElement.style.setProperty("--background-color", "#efe7e5");
+    document.documentElement.style.setProperty("--background-color", "#e5e7eb");
     document.getElementById("dark-light-mode").innerHTML = "Mode sombre";
   } else {
     darkMode = true;
