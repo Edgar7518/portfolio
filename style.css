@@ -63,7 +63,7 @@
 
  header .header-left {
     flex: 6;
-    margin-right: 50px;
+    margin-right: 130px;
  }
 
  
@@ -80,14 +80,14 @@
     }
     
     header .header-left .links {
-        margin-top: 80px;        
+        margin-top: 20px;        
     }
 
     header .header-left .links a {
         text-decoration: none;
         color: inherit;
         position: relative;
-        margin-right: 40px;
+        margin-right: 20px;
         font-weight: bold;
     }
     
@@ -132,8 +132,8 @@
 
     .projets .image-card .image-left img {
         height: 200px;
-        width: 300px;
-        border-radius: 0;
+        width: 200px;
+        border-radius: 50;
     }
 
     footer {
